@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mukhtar Idris
 
-<!--
-**mukhtaridris523-Ea/mukhtaridris523-Ea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Executive & Administrative Assistant | Operations Support
 
-Here are some ideas to get you started:
+I support founders and teams by managing operations, organizing information, and ensuring projects move forward without friction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Documents
+
+- 📄 [Download My CV](https://mukhtaridris523-Ea.github.io/Mukhtar_Idris_CV.pdf)
+- 📁 [View My Portfolio](https://mukhtaridris523-Ea.github.io/Mukhtar_Idris_Portfolio.pdf)
+
+## Tools I Work With
+
+Slack • ClickUp • Asana • Trello • Dropbox • GitHub
+
+## What I Help Teams With
+
+• Executive scheduling and calendar coordination  
+• Project and task management systems  
+• Internal communication and team coordination  
+• Documentation and knowledge management  
+• Operational organization for growing teams  
+
+## Contact
+
+LinkedIn: (add your link when ready)
